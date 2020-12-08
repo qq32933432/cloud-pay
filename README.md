@@ -1,3 +1,1 @@
-# cloud-pay
-
-spring cloud config 配置
+一个spring cloud config的测试文件，用于演示配置的动态更新
